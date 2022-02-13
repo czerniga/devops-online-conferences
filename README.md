@@ -24,6 +24,12 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 24-28 October 2022  | [KubeCon / CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | n/a  | n/a  |
 | 1 December 2022  | [Conf42: DevSecOps 2022](https://www.conf42.com/devsecops2022)  | n/a  | n/a  |
 
+## More info
+
+![DevOps in the clouds](Devops_logo.png "DevOps in the clouds")
+
+More information about the conferences and DevOps can be found on my blog [DevOps in the clouds](czerniga.it)
+
 ## Sources
 
 [https://dev.events/](https://dev.events/)
@@ -33,3 +39,4 @@ If you want to add a new conference to the list just create a [pull request](htt
 [https://confs.tech/devops](https://confs.tech/devops)
 
 [https://techbeacon.com/app-dev-testing/best-devops-conferences-2022](https://techbeacon.com/app-dev-testing/best-devops-conferences-2022)
+
