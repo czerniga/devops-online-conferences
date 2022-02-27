@@ -12,6 +12,7 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 8-9 March 2022   | [The DEVOPS Conference](https://www.thedevopsconference.com/) | https://www.thedevopsconference.com/agenda   | FREE  |
 | 14–16 March 2022  | [SREcon22 Americas](https://www.usenix.org/conference/srecon22americas)  | https://www.usenix.org/conference/srecon22americas/program  | US $550 – US $700  |
 | 24-25 March  | [DevOps.js Conference](https://devopsjsconf.com/) | n/a   | FREE /  € 46  |
+| 26 – 27 April 2022  | [DevOpsDays Kraków 2022](https://dodkrakow.pl/) | n/a | FREE |
 | 26 – 29 April 2022  | [DevOpsCon London](https://devopscon.io/london) | https://devopscon.io/london/program-london/  | £ 512 - 1196  |
 | 10 May 2022  | [DockerCon 2022](https://www.docker.com/dockercon/)  | n/a  | FREE  |
 | 10-12 May 2022  | [DevOps Enterprise Summit](https://events.itrevolution.com/virtual) | n/a  | $450  |
