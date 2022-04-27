@@ -20,6 +20,7 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 24-26 may 2022  | [DevOps Pro Europe 2022](https://devopspro.lt/) | https://devopspro.lt/schedule/  | € 270 – 1130   |
 | 9 June 2022  | [Conf42: Site Reliability Engineering 2022](https://www.conf42.com/sre2022) | n/a   | n/a  |
 | 12-17 June 2022  | [Agile + DevOps West](https://agiledevopswest.techwell.com/) | https://agiledevopswest.techwell.com/program/schedule  | n/a  |
+| 20-22 June 2022  | [HashiConf Europe](https://hashiconf.com/europe/) | https://hashiconf.com/europe/  | FREE - € 450  |
 | 20-23 June 2022  | [DevOpsCon Berlin](https://devopscon.io/berlin) | https://devopscon.io/berlin/program-berlin/  | € 476 - € 1169  |
 | 11-13 October 2022  | [Google Cloud Next &#39;22](https://cloud.withgoogle.com/next) | n/a  | FREE  |
 | 24-28 October 2022  | [KubeCon / CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | n/a  | n/a  |
