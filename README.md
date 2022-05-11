@@ -25,7 +25,7 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 11-13 October 2022  | [Google Cloud Next &#39;22](https://cloud.withgoogle.com/next) | n/a  | FREE  |
 | 24-28 October 2022  | [KubeCon / CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | n/a  | n/a  |
 | 11-14 September 2022  | [ChefConf &#39;22](https://www.chef.io/chefconf/sign-up-for-all-chefconf-22-news) | https://www.chef.io/chefconf/agenda | FREE  |
-| 14 September 2022  | [{unscripted} 2022](https://sessionize.com/unscripted-2022/) | n/a | FREE  |
+| 14 September 2022  | [{unscripted} by harness 2022](https://sessionize.com/unscripted-2022/) | n/a | FREE  |
 | 10 November 2022  | [All Day Devops](https://www.alldaydevops.com/) | n/a  | n/a  |
 | 1 December 2022  | [Conf42: DevSecOps 2022](https://www.conf42.com/devsecops2022)  | n/a  | n/a  |
 
