@@ -24,6 +24,7 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 20-23 June 2022  | [DevOpsCon Berlin](https://devopscon.io/berlin) | https://devopscon.io/berlin/program-berlin/  | € 476 - € 1169  |
 | 11-13 October 2022  | [Google Cloud Next &#39;22](https://cloud.withgoogle.com/next) | n/a  | FREE  |
 | 24-28 October 2022  | [KubeCon / CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | n/a  | n/a  |
+| 05-07 September 2022  | [ContainerDays 2022](https://www.containerdays.io/) | n/a | FREE / € 699  |
 | 11-14 September 2022  | [ChefConf &#39;22](https://www.chef.io/chefconf/sign-up-for-all-chefconf-22-news) | https://www.chef.io/chefconf/agenda | FREE  |
 | 14 September 2022  | [{unscripted} by harness 2022](https://sessionize.com/unscripted-2022/) | n/a | FREE  |
 | 10 November 2022  | [All Day Devops](https://www.alldaydevops.com/) | n/a  | n/a  |
