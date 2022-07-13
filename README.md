@@ -21,10 +21,10 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 9 June 2022  | [Conf42: Site Reliability Engineering 2022](https://www.conf42.com/sre2022) | https://www.conf42.com/sre2022 | n/a | --- |
 | 9-10 June 2022  | [PlatformCON 22](https://platformcon.com/) | https://platformcon.com/talks  | FREE | --- |
 | 12-17 June 2022  | [Agile + DevOps West](https://agiledevopswest.techwell.com/) | https://agiledevopswest.techwell.com/program/schedule  | n/a | --- |
-| 20-22 June 2022  | [HashiConf Europe](https://hashiconf.com/europe/) | https://hashiconf.com/europe/  | FREE - € 450 |
+| 20-22 June 2022  | [HashiConf Europe](https://hashiconf.com/europe/) | https://hashiconf.com/europe/  | FREE - € 450 | --- |
 | 20-23 June 2022  | [DevOpsCon Berlin](https://devopscon.io/berlin) | https://devopscon.io/berlin/program-berlin/  | € 476 - € 1169 | --- |
 | 29 June 2022 | [AWS EMEA Summit Online 2022](https://summit-emea-en.virtual.awsevents.com/) | https://aws.amazon.com/events/summits/online/emea/agenda/ | FREE | --- |
-| 25027 July | [GLOBAL SRE VIRTUAL CONFERENCE](https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/event-131.html) | https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/schedule-131.html | | NO | $99 - $4000 |
+| 25027 July | [GLOBAL SRE VIRTUAL CONFERENCE](https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/event-131.html) | https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/schedule-131.html | $99 - $4000 | NO |
 | 05-07 September 2022  | [ContainerDays 2022](https://www.containerdays.io/) | n/a | FREE / € 699 | YES <br>Kampnagel, Internationale Kulturfabrik, Jarrestraße 20, 22303 Hamburg, **Germany** |
 | 11-14 September 2022  | [ChefConf &#39;22](https://www.chef.io/chefconf/about) | https://www.chef.io/chefconf/agenda | FREE | YES<br>The Westin Boston Seaport District, 425 Summer Street, Boston, MA 02210, **US** |
 | 14 September 2022  | [{unscripted} 2022 by Harness](https://unscriptedconf.io) | https://unscriptedconf.io; [CfP](https://sessionize.com/unscripted-2022/) | FREE | YES<br>Bespoke, 845 Market St Suite 450, San Francisco, CA 94103 **US** |
