@@ -30,7 +30,7 @@ If you want to add a new conference to the list just create a [pull request](htt
 | 14 September 2022  | [{unscripted} 2022 by Harness](https://unscriptedconf.io) | https://unscriptedconf.io; [CfP](https://sessionize.com/unscripted-2022/) | FREE | YES<br>Bespoke, 845 Market St Suite 450, San Francisco, CA 94103 **US** |
 | 4-5 October 2022 | [DevOps Global Summit'22](https://events.geekle.us/devops/) | n/a | FREE - $49 | NO | 
 | 11-13 October 2022  | [Google Cloud Next &#39;22](https://cloud.withgoogle.com/next) | https://cloud.withgoogle.com/next/catalog#featured | FREE | NO |
-| 24-28 October 2022  | [KubeCon / CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule-at-a-glance/ | n/a | YES<br>DETROIT, MICHIGAN |
+| 24-28 October 2022  | [KubeCon / CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule-at-a-glance/ | n/a | YES<br>Detroit, Michigan **US** |
 | 10 November 2022  | [All Day Devops](https://www.alldaydevops.com/) | n/a | n/a | NO |
 | 1 December 2022  | [Conf42: DevSecOps 2022](https://www.conf42.com/devsecops2022)  | n/a | n/a | NO |
 | 6-8 December 2022 | [DevOps Enterprise Summit](https://events.itrevolution.com/virtual) | n/a | $450 | NO |
